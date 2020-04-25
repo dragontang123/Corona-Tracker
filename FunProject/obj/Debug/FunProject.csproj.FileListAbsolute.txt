@@ -1,0 +1,13 @@
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\FunProject.exe.config
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\FunProject.exe
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\FunProject.pdb
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\Leaf.xNet.dll
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\Leaf.xNet.xml
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Repos\FunProject\FunProject\obj\Debug\FunProject.csprojAssemblyReference.cache
+D:\Visual Studio Repos\FunProject\FunProject\obj\Debug\FunProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\FunProject\FunProject\obj\Debug\FunProject.csproj.CopyComplete
+D:\Visual Studio Repos\FunProject\FunProject\obj\Debug\FunProject.exe
+D:\Visual Studio Repos\FunProject\FunProject\obj\Debug\FunProject.pdb
+D:\Visual Studio Repos\FunProject\FunProject\bin\Debug\Colorful.Console.dll

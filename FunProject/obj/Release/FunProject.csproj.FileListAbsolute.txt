@@ -1,0 +1,11 @@
+D:\Visual Studio Repos\FunProject\FunProject\bin\Release\Leaf.xNet.xml
+D:\Visual Studio Repos\FunProject\FunProject\bin\Release\Newtonsoft.Json.xml
+D:\Visual Studio Repos\FunProject\FunProject\obj\Release\FunProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\FunProject\FunProject\obj\Release\FunProject.csproj.CopyComplete
+D:\Visual Studio Repos\FunProject\FunProject\obj\Release\FunProject.csprojAssemblyReference.cache
+D:\Visual Studio Repos\FunProject\FunProject\obj\Release\FunProject.csproj.Fody.CopyLocal.cache
+D:\Visual Studio Repos\FunProject\FunProject\bin\Release\CoronaTracker.exe.config
+D:\Visual Studio Repos\FunProject\FunProject\bin\Release\CoronaTracker.exe
+D:\Visual Studio Repos\FunProject\FunProject\bin\Release\CoronaTracker.pdb
+D:\Visual Studio Repos\FunProject\FunProject\obj\Release\CoronaTracker.exe
+D:\Visual Studio Repos\FunProject\FunProject\obj\Release\CoronaTracker.pdb
